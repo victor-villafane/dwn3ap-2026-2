@@ -1,4 +1,7 @@
 git init   -> inicio el repositorio
 git remote add origin https://github.com/victor-villafane/dwn3ap-2026-2.git
 git branch -M main
+git add .
+git commit -m "init"
+git push -u origin main -> es diferente porque es el primero luego usan git push
 
